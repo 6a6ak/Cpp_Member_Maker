@@ -104,23 +104,3 @@ for (int i = 0; i < numGroups; i++) {
 ## Requirements
 
 - C++ compiler supporting C++11 or later.
-
-## Compilation and Execution
-
-To compile the program, use the following command:
-
-```sh
-g++ -o group_division group_division_csv.cpp
-```
-
-To run the program:
-
-```sh
-./group_division
-```
-
-Make sure `names.csv` is in the same directory as the executable.
-
-## License
-
-This project is licensed under the MIT License.
