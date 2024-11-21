@@ -104,3 +104,7 @@ for (int i = 0; i < numGroups; i++) {
 ## Requirements
 
 - C++ compiler supporting C++11 or later.
+
+## License
+
+- This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
